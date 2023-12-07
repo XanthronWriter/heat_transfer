@@ -28,3 +28,8 @@ fds/1D/Diabatic/multiple/2/result/*
 !fds/1D/Diabatic/multiple/1/heat_transfer.fds
 !fds/1D/Diabatic/multiple/1/result
 fds/1D/Diabatic/multiple/1/result/*
+!fds/1D/Diabatic/thickness_steel_k_c/005cm/heat_transfer.fds
+!fds/1D/Diabatic/thickness_steel_k_c/010cm/heat_transfer.fds
+!fds/1D/Diabatic/thickness_steel_k_c/050cm/heat_transfer.fds
+!fds/1D/Diabatic/thickness_steel_k_c/100cm/heat_transfer.fds
+!fds/1D/Diabatic/thickness_steel_k_c/500cm/heat_transfer.fds
