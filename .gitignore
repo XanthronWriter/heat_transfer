@@ -1,0 +1,18 @@
+/target
+plots/*
+.vscode/
+sim_info.csv
+fds_info.csv
+plot_info.csv
+Cargo.lock
+todo.md
+**.svg
+
+
+#Simulation Files
+fds/**/result
+fds/**/test*
+fds/**/heat_transfer.fds
+!fds/1D/Diabatic/steel_and_concrete_k_c/heat_transfer.fds
+!fds/1D/Diabatic/concrete_small_k_c/heat_transfer.fds
+!fds/1D/Diabatic/steel_big_k_c/heat_transfer.fds

@@ -1,0 +1,20 @@
+[package]
+name = "heat_transfer"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+plotly = { version = "0.8.4", features = ["kaleido"], optional = true }
+chumsky = "0.8.0"
+wgpu = "0.17.0"
+bytemuck = "1.14.0"
+futures = "0.3.28"
+futures-channel = "0.3.28"
+anyhow = "1.0.75"
+clap = { version = "4.4.6", features = ["derive"] }
+rayon = "1.8.0"
+
+[features]
+plot = ["plotly"]

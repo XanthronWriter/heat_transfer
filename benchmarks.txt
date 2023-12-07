@@ -1,0 +1,7 @@
+desktop_l = 18432
+desktop_l_n = 10000000
+desktop_w = 18432
+laptop_l = 4096
+laptop_l_n = 10000000
+cobra_l = 16384
+cobra_w = 16384
